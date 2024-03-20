@@ -1,4 +1,4 @@
-# Glass-Data-Models
+# Comparing different models on glass dataset
 I applied three different models for this glass dataset, based on chemical composition: Random Forest Classifier, Support Vector Machine (SVM), and KNN. Other techniques applicable to this problem include Decision Trees, Gradient Boosting Machines, and Neural Networks.
 In this project I looked at the Random Forest, SVM, and KNN models on the original, oversampled, and under sampled datasets. Focusing on their accuracy, precision, recall, and f1-score across all the data sampling techniques.
 
